@@ -3,7 +3,7 @@ echo "Vamos a realizar cambios de forma simultánea a este fichero para simular 
 echo "Intentaremos que dos miembros modifiquen la misma línea para crear la issue, partiendo desde esta versión del archivo"
 
 # What to backup. 
-backup_files="/home /var/spool/mail /etc /root /boot /opt"
+backup_files="/home/axel /var/spool/mail /etc /root /boot /opt"
 
 # Where to backup to.
 dest="/mnt/backup"
