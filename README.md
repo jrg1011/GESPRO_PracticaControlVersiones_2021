@@ -1,6 +1,6 @@
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2020/21. Universidad de Burgos.
 
-Este fork del repositorio original es nuestra versión para la primera práctica obligatoria de la asignatura de Gestión de Proyectos.
+Este fork del repositorio original es nuestra versión para la segunda práctica obligatoria de la asignatura de Gestión de Proyectos.
 
 **Alumnos 2020/2021:**
 
